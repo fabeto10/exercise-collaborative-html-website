@@ -1,3 +1,7 @@
+# Integrantes:
+
+ALBERTO MORENO - DANIELA GIMENEZ - FRANCISCO VIDAL - MARIANO CASCARANO - VALERIA ZAMPETTI
+
 # Sitio Web colaborativo (Git collaboration)
 
 Practica tus habilidades en GIT mientras desarrollas un típico sitio web.
